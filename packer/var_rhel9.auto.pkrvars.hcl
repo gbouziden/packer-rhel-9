@@ -18,4 +18,4 @@ vsphere_compute_cluster = "lab"
 vsphere_datastore       = "labds"
 vsphere_portgroup_name  = "vlan100"
 
-os_iso_path = "[albds] ISO/rhel-baseos-9.1-x86_64-dvd.iso"
+os_iso_path = "[labds] ISO/rhel-baseos-9.1-x86_64-dvd.iso"
